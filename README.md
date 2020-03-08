@@ -1,6 +1,6 @@
 # RoboKarrfis
 Discord Bot written in JS
-
+Personal Project, nothing to do with the Uni Work being uploade don here
 
 Certain commands will not work without certain files, these files are  copyrighted by owner and are not distributed with this program on thier own personal request
 
